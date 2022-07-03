@@ -8,10 +8,7 @@ class BodyParts {
 }
 
 class HeadParts {
- style = this.config.head.appendChild('meta')
- configureStyle(){
-    
- }
+ style = this.config.head.appendChild('meta') 
 }
 
 const config = new DocumentConfig()
